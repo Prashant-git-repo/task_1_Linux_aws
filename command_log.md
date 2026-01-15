@@ -5,7 +5,7 @@
    Output - /home/ec2-user
 
 2. Create Directory & Files
-   Command - mkdir @ touch
+   Command - mkdir & touch
    Output - Linux_task_1 & file1.txt
 
 3. List Files
