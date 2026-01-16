@@ -2,7 +2,7 @@
 
 ## 📌 Objective
 To gain hands-on experience with Linux system navigation, file management,
-permissions, and monitoring tools using an AWS EC2 Ubuntu instance.
+permissions, and monitoring tools using an AWS EC2 Amazon Linux instance.
 
 ## 🖥 Environment
 - Cloud Provider: AWS
